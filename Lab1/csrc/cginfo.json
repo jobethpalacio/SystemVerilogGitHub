@@ -1,0 +1,79 @@
+{
+    "stat": {
+        "nMops": 452
+    },
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "tb_up_down_counter": {
+            "GNgfg_d": {
+                "bytes": 11995,
+                "mod": "tb_up_down_counter",
+                "out": "GNgfg_d.o",
+                "mode": 4,
+                "archive": "archive.43/_11411_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 21728,
+                "mod": "std",
+                "mode": 4,
+                "archive": "archive.43/_prev_archive_1.a",
+                "out": "reYIK_d.o"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 4576,
+                "mod": "...MASTER...",
+                "out": "amcQw_d.o",
+                "mode": 4,
+                "archive": "archive.43/_11411_archive_1.a"
+            }
+        }
+    },
+    "Misc": {
+        "default_output_dir": "csrc",
+        "cwd": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1",
+        "daidir_abs": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1/simv.daidir",
+        "csrc": "csrc",
+        "csrc_abs": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.43"
+    },
+    "NameTable": {
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "tb_up_down_counter": [
+            "tb_up_down_counter",
+            "GNgfg",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 57142
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileModules": [
+        "...MASTER...",
+        "tb_up_down_counter"
+    ],
+    "CompileProcesses": [
+        "cgproc.11411.json"
+    ],
+    "CurCompileUdps": {},
+    "CompileStatus": "Successful",
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": []
+}

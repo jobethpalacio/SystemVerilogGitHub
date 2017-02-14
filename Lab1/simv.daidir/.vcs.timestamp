@@ -1,0 +1,89 @@
+0 
+30
++cli+4
++itf+/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcsd.tab
++memcbk
++vcsd
++vpi
++vpi
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -O -I/usr/synopsys/J-2014.12-SP3-VCS/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -m32 -m32
+-Mobjects= /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libvirsim.so /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/liberrorinf.so /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/usr/synopsys/J-2014.12-SP3-VCS/linux/lib/ctype-stubs_32.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -m32 -I/usr/synopsys/J-2014.12-SP3-VCS/include
+-Xcbug=0x1
+-debug=3
+-gen_obj
+-picarchive
+-sverilog
+/usr/synopsys/J-2014.12-SP3-VCS/linux/bin/vcs1
+tb_up_down_counter.sv
+up_down_counter.sv
+45
+sysc_uni_pwd=/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1
+VMR_MODE_FLAG=32
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/usr/synopsys/J-2014.12-SP3-VCS
+VCS_DEPTH=0
+VCS_BASE_HOME=/usr/synopsys/J-2014.12-SP3-VCS
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+UNAME=/bin/uname
+TOOL_HOME=/usr/synopsys/J-2014.12-SP3-VCS/linux
+STROOT=/usr/synopsys/K-2015.06-SP1-ICC
+SSH_TTY=/dev/pts/1
+SSH_CONNECTION=130.166.139.71 62373 130.166.68.131 22
+SSH_CLIENT=130.166.139.71 62373 22
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPSLMD_LICENSE_FILE=27020@jd-ece2
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=130.166.139.71
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+OSTYPE=linux
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+INPUTRC=/etc/inputrc
+HOSTTYPE=x86_64-linux
+G_BROKEN_FILENAMES=1
+GROUP=users
+CVS_RSH=ssh
+CLS_CDSD_COMPATIBILITY_LOCKING=NO
+CLASSPATH=/usr/java/jdk1.8.0_11/include:.
+CDS_LIC_FILE=/opt/cadence/license/license.dat
+CDSDOC_PROJECT=/opt/cadence/cdsdoc_list/
+A__z="*SHLVL
+0
+3
+1487050498 tb_up_down_counter.sv
+1486695823 up_down_counter.sv
+1436327278 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/vcsd.tab
+4
+0 
+1436327561 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libvirsim.so
+1436327332 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/liberrorinf.so
+1436327324 /usr/synopsys/J-2014.12-SP3-VCS/linux/lib/libsnpsmalloc.so
+1487050503 simv.daidir

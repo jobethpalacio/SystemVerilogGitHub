@@ -1,0 +1,42 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "std": {},
+        "tb_up_down_counter": {
+            "Compiled": "Yes",
+            "Compiled Times": 12
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "amcQw_d.o",
+            "bytes": 4576,
+            "mode": 4,
+            "archive": "archive.43/_11411_archive_1.a"
+        },
+        "GNgfg_d": {
+            "mod": "tb_up_down_counter",
+            "out": "GNgfg_d.o",
+            "bytes": 11954,
+            "mode": 4,
+            "archive": "archive.43/_11411_archive_1.a"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.43/_11411_archive_1.a",
+            "size": 16530,
+            "objects": [
+                [
+                    "amcQw_d.o",
+                    4576
+                ],
+                [
+                    "GNgfg_d.o",
+                    11954
+                ]
+            ]
+        }
+    ]
+}

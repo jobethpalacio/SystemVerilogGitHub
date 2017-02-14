@@ -1,0 +1,79 @@
+{
+    "CompileProcesses": [
+        "cgproc.11113.json"
+    ],
+    "MlibObjs": {},
+    "CurCompileUdps": {},
+    "PrevCompiledModules": {
+        "tb_up_down_counter": {
+            "GNgfg_d": {
+                "mode": 4,
+                "mod": "tb_up_down_counter",
+                "bytes": 11995,
+                "out": "GNgfg_d.o",
+                "archive": "archive.42/_11113_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "mode": 4,
+                "mod": "...MASTER...",
+                "bytes": 4576,
+                "out": "amcQw_d.o",
+                "archive": "archive.42/_11113_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "mode": 4,
+                "mod": "std",
+                "bytes": 21728,
+                "archive": "archive.42/_prev_archive_1.a",
+                "out": "reYIK_d.o"
+            }
+        }
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 57019
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "tb_up_down_counter": [
+            "tb_up_down_counter",
+            "GNgfg",
+            "module"
+        ]
+    },
+    "stat": {
+        "nMops": 452
+    },
+    "PEModules": [],
+    "CompileStrategy": "fullobj",
+    "CurCompileModules": [
+        "...MASTER...",
+        "tb_up_down_counter"
+    ],
+    "Misc": {
+        "cwd": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1",
+        "daidir": "simv.daidir",
+        "csrc": "csrc",
+        "csrc_abs": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1/csrc",
+        "archive_dir": "archive.42",
+        "daidir_abs": "/home/users6/jp640095/ECE527/SystemVerilogGitHub/Lab1/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "CompileStatus": "Successful"
+}
